@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1C019401-0AD2-44EA-84F3-09743E52D8C4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Postcard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1E4AAFF648F3F0BBECA07FF43319988437A6AACC</key>
+		<string>https://github.com/dohno/Postcard.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Postcard.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1E4AAFF648F3F0BBECA07FF43319988437A6AACC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dohno/Postcard.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1E4AAFF648F3F0BBECA07FF43319988437A6AACC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1E4AAFF648F3F0BBECA07FF43319988437A6AACC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Postcard</string>
+		</dict>
+	</array>
+</dict>
+</plist>

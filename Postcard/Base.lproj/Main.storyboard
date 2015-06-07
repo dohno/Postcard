@@ -95,6 +95,14 @@
                                     <action selector="sendMailButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="vz0-9B-Y1l"/>
                                 </connections>
                             </button>
+                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qVV-fK-DRD">
+                                <rect key="frame" x="0.0" y="-21" width="42" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="highlightedColor"/>
+                                <variation key="widthClass=compact" fixedFrame="YES">
+                                    <rect key="frame" x="16" y="162" width="226" height="42"/>
+                                </variation>
+                            </label>
                             <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="B9v-8p-AcO">
                                 <rect key="frame" x="0.0" y="-21" width="42" height="21"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
@@ -113,6 +121,7 @@
                                 <exclude reference="Bz5-MH-yjB"/>
                                 <exclude reference="F6K-eq-TAk"/>
                                 <exclude reference="3JI-ae-72J"/>
+                                <exclude reference="qVV-fK-DRD"/>
                                 <exclude reference="B9v-8p-AcO"/>
                             </mask>
                         </variation>
@@ -122,6 +131,7 @@
                                 <include reference="Bz5-MH-yjB"/>
                                 <include reference="F6K-eq-TAk"/>
                                 <include reference="3JI-ae-72J"/>
+                                <include reference="qVV-fK-DRD"/>
                                 <include reference="B9v-8p-AcO"/>
                             </mask>
                         </variation>
@@ -131,6 +141,7 @@
                         <outlet property="enterNameTextField" destination="Bz5-MH-yjB" id="7EI-Hr-MDO"/>
                         <outlet property="mailButton" destination="3JI-ae-72J" id="XHn-t7-j87"/>
                         <outlet property="messageLabel" destination="B9v-8p-AcO" id="eDU-kX-VCV"/>
+                        <outlet property="nameLabel" destination="qVV-fK-DRD" id="VfL-Ry-w0a"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
